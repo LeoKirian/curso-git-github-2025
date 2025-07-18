@@ -2,3 +2,5 @@ ls - Lista arquivos
 cd - Move entre diretórios
 pwd - mostra diretório de trabalho
 .. - volta uma pasta
+cat - exibe conteúdo do arquivo
+rm - remove arquivo do diretório
