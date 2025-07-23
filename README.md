@@ -1,4 +1,4 @@
-\# Curso Git \& GitHub 2025
+# Curso Git \& GitHub 2025
 
 
 
